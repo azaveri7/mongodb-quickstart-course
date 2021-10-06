@@ -1,0 +1,2 @@
+https://github.com/mikeckennedy/mongodb-quickstart-course
+https://github.com/mikeckennedy/python-for-entrepreneurs-course-demos
